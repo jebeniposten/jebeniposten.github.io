@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nemos Bit'
 SITENAME = 'jebeniposten.hr'
-SITEURL = 'http://jebeniposten.hr/'
+SITEURL = 'https://jebeniposten.hr/'
 
 PATH = 'content'
 
