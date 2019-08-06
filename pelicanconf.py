@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Zagreb'
 DEFAULT_LANG = 'en'
 
 THEME = "/Users/m/jip/pelican-clean-blog"
-HEADER_COVER = "static/header_cover_doggy.jpg"
+HEADER_COVER = "static/header_doggy.jpg"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
