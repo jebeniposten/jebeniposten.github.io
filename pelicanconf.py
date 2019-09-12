@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Nemos Bit'
-SITENAME = 'jebeniposten.hr'
+AUTHOR = 'Nemoš Bit'
+SITENAME = """jebenipošten.hr  
+¯\_(ツ)_/¯&(´･_･`)¯""" 
 SITEURL = 'https://jebeniposten.hr/'
 
 PATH = 'content'
@@ -12,8 +13,8 @@ TIMEZONE = 'Europe/Zagreb'
 
 DEFAULT_LANG = 'en'
 
-THEME = "/Users/m/jip/pelican-clean-blog"
-HEADER_COVER = "static/header_doggy.jpg"
+THEME = "pelican-clean-blog"
+HEADER_COVER = "static/header_blank.png"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
